@@ -48,7 +48,7 @@ You can use `bookbot` on any system with Python installed. Follow these steps:
 2. **Run the program**
 
    ```bash
-   python main.py books/frankenstein.txt
+   uv run main.py books/frankenstein.txt
    ```
 
 ### Option 2: Without Git
